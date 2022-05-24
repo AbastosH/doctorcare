@@ -6,7 +6,7 @@
 }
 
 :root {
-  --hue: 285;
+  --hue: 170;
 
   --primary-color: hsl(var(--hue), 100%, 26%);
   --headline: hsl(210, 11%, 15%);
